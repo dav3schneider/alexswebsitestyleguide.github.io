@@ -90,7 +90,6 @@ Opaque Gray
     opacity: 0;
 }
 
-.color-panel:hover,
 .color-panel:active {
     color: black;
     background-color: black;
