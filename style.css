@@ -95,22 +95,8 @@ Opaque Gray
     background-color: black;
 }
 
-.color-panel:hover .text,
-.color-panel:active .text {
-    font-size: 18px;
-    transform: translateX(2px); 
-}
-
 .color-panel:active:after {
     opacity: 1;
-}
-
-.text {
-    display: block;
-    margin-top: 10px;
-    font-weight: bold;
-    font-size: 1rem;
-    color: #000;
 }
 
 .blue {
